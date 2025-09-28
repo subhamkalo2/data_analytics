@@ -8,17 +8,6 @@ Using Python and various data science libraries, the project analyzes IPL datase
 
 ---
 
-## 📂 Project Structure
-
-
-├── Ipl_project.ipynb # Jupyter Notebook with full analysis
-├── data/ # (Optional) Raw & cleaned datasets
-├── images/ # Exported charts and plots
-└── README.md # Project documentation
-
-
----
-
 ## 🔑 Objectives
 - Clean and preprocess IPL datasets.  
 - Perform **Exploratory Data Analysis (EDA)**.  
